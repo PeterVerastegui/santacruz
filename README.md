@@ -1,2 +1,3 @@
 # santacruz.github.io
-Gallery de Photos | Photo Essay
+Galleria de Fotos | Photo Essay
+By Peter Verastegui Guasace
